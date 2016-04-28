@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenjuridic00unkngoog_0018.png"; bbox 0 0 2828 4964; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 101 1493 1136 1667">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 101 1493 1136 1667">
+     <span class='ocr_line' id='line_1_1' title="bbox 101 1493 1136 1667; baseline 0.003 -55"><span class='ocrx_word' id='word_1_1' title='bbox 101 1493 1136 1667; x_wconf 33' lang='lat' dir='ltr'><strong>*BELGARUM&#39;REGI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 420 1989 895 2179">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 420 1986 895 2179">
+     <span class='ocr_line' id='line_1_2' title="bbox 420 1989 895 2179; baseline -0.004 -4"><span class='ocrx_word' id='word_1_2' title='bbox 420 1989 895 2179; x_wconf 25' lang='lat' dir='ltr'><strong>OPTIMO*</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 123 2625 1144 2767">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 123 2625 1144 2767">
+     <span class='ocr_line' id='line_1_3' title="bbox 123 2625 1144 2767; baseline 0.019 -38"><span class='ocrx_word' id='word_1_3' title='bbox 123 2625 592 2740; x_wconf 77' lang='lat' dir='ltr'>GUILIELMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 636 2625 1144 2767; x_wconf 71' lang='lat' dir='ltr'>FREDERICQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1418 4964">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1418 4964">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1418 4964; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1418 4964; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

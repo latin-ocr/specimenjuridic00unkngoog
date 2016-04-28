@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./specimenjuridic00unkngoog_0014.png"; bbox 0 0 829 1813; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 176 663 538 736">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 176 663 538 736">
+     <span class='ocr_line' id='line_1_1' title="bbox 176 663 538 687; baseline -0.003 -2"><span class='ocrx_word' id='word_1_1' title='bbox 176 664 330 687; x_wconf 69' lang='lat' dir='ltr'><strong><em>PECIMEN</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 348 663 538 687; x_wconf 66' lang='lat' dir='ltr'><em>lvntntevn</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 232 705 478 736; baseline -0.004 -11"><span class='ocrx_word' id='word_1_3' title='bbox 232 705 346 736; x_wconf 63' lang='lat' dir='ltr'><em>INAUG</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 353 705 478 729; x_wconf 71' lang='lat' dir='ltr'><em>URALE,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 328 787 367 802">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 328 787 367 802">
+     <span class='ocr_line' id='line_1_3' title="bbox 328 787 367 802; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 328 787 367 802; x_wconf 69' lang='lat' dir='ltr'>”B</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 177 856 580 969">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 177 856 580 969">
+     <span class='ocr_line' id='line_1_4' title="bbox 177 856 580 883; baseline 0 -1"><span class='ocrx_word' id='word_1_6' title='bbox 177 858 248 883; x_wconf 77' lang='lat' dir='ltr'>&#39;rus</span> <span class='ocrx_word' id='word_1_7' title='bbox 267 861 312 882; x_wconf 86' lang='grc' dir='ltr'>ΕΤ</span> <span class='ocrx_word' id='word_1_8' title='bbox 330 856 580 883; x_wconf 73' lang='lat' dir='ltr'>INGREMEN&#39;HS</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 186 902 529 925; baseline 0.003 -1"><span class='ocrx_word' id='word_1_9' title='bbox 186 902 273 925; x_wconf 77' lang='lat' dir='ltr'>URIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 300 902 529 925; x_wconf 70' lang='lat' dir='ltr'><strong>CRIMINAMS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 241 944 457 969; baseline 0.009 -3"><span class='ocrx_word' id='word_1_11' title='bbox 241 944 278 967; x_wconf 82' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_12' title='bbox 306 945 457 969; x_wconf 48' lang='lat' dir='ltr'>BELGloa</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
